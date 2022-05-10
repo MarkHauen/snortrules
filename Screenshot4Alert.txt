@@ -1,0 +1,95 @@
+Time: 08/26-19:00:00.597362 
+event_id: 4
+192.168.0.9 -> 192.168.0.99 (portscan) TCP Portscan
+Priority Count: 9
+Connection Count: 10
+IP Count: 1
+Scanner IP Range: 192.168.0.9:192.168.0.9
+Port/Proto Count: 10
+Port/Proto Range: 1242:55937
+
+Time: 08/26-19:02:28.376796 
+event_ref: 4
+192.168.0.9 -> 192.168.0.99 (portscan) Open Port
+Open Port: 22
+
+Time: 08/26-19:10:01.213407 
+event_id: 9
+192.168.0.9 -> 192.168.0.99 (portscan) TCP Portscan
+Priority Count: 9
+Connection Count: 10
+IP Count: 1
+Scanner IP Range: 192.168.0.9:192.168.0.9
+Port/Proto Count: 10
+Port/Proto Range: 5860:63501
+
+Time: 08/26-19:11:10.851240 
+event_ref: 9
+192.168.0.9 -> 192.168.0.99 (portscan) Open Port
+Open Port: 111
+
+Time: 08/26-19:11:46.602538 
+event_ref: 9
+192.168.0.9 -> 192.168.0.99 (portscan) Open Port
+Open Port: 32768
+
+Time: 08/26-19:13:35.996954 
+event_ref: 9
+192.168.0.9 -> 192.168.0.99 (portscan) Open Port
+Open Port: 80
+
+Time: 08/26-19:13:50.746887 
+event_ref: 9
+192.168.0.9 -> 192.168.0.99 (portscan) Open Port
+Open Port: 443
+
+Time: 08/26-19:17:03.881384 
+event_ref: 9
+192.168.0.9 -> 192.168.0.99 (portscan) Open Port
+Open Port: 53
+
+Time: 08/26-19:20:02.106098 
+event_id: 16
+192.168.0.9 -> 192.168.0.99 (portscan) TCP Portscan
+Priority Count: 9
+Connection Count: 10
+IP Count: 1
+Scanner IP Range: 192.168.0.9:192.168.0.9
+Port/Proto Count: 10
+Port/Proto Range: 6757:52465
+
+Time: 08/26-19:21:38.723049 
+event_ref: 16
+192.168.0.9 -> 192.168.0.99 (portscan) Open Port
+Open Port: 22
+
+Time: 08/26-19:24:50.337273 
+event_ref: 16
+192.168.0.9 -> 192.168.0.99 (portscan) Open Port
+Open Port: 111
+
+Time: 08/26-19:24:50.398344 
+event_ref: 16
+192.168.0.9 -> 192.168.0.99 (portscan) Open Port
+Open Port: 80
+
+Time: 08/26-19:24:50.477337 
+event_ref: 16
+192.168.0.9 -> 192.168.0.99 (portscan) Open Port
+Open Port: 443
+
+Time: 08/26-19:24:53.597496 
+event_ref: 16
+192.168.0.9 -> 192.168.0.99 (portscan) Open Port
+Open Port: 53
+
+Time: 05/10-14:05:52.162484 
+event_id: 1
+192.168.0.17 -> 224.0.0.251 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 30
+IP Count: 3
+Scanned IP Range: 192.168.0.255:224.0.0.251
+Port/Proto Count: 3
+Port/Proto Range: 5353:57621
+
